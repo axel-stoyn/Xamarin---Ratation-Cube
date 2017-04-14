@@ -1,0 +1,12 @@
+App9.Activity1, App9;md5e6ffb577b9a7436295966543791ffd16.Activity1
+App9.Activity1, App9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e6ffb577b9a7436295966543791ffd16.Activity1
+App9.Activity1;md5e6ffb577b9a7436295966543791ffd16.Activity1
+app9.Activity1;md5e6ffb577b9a7436295966543791ffd16.Activity1
+App9.MainActivity, App9;md5e6ffb577b9a7436295966543791ffd16.MainActivity
+App9.MainActivity, App9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e6ffb577b9a7436295966543791ffd16.MainActivity
+App9.MainActivity;md5e6ffb577b9a7436295966543791ffd16.MainActivity
+app9.MainActivity;md5e6ffb577b9a7436295966543791ffd16.MainActivity
+App9.GLView1, App9;md5e6ffb577b9a7436295966543791ffd16.GLView1
+App9.GLView1, App9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e6ffb577b9a7436295966543791ffd16.GLView1
+App9.GLView1;md5e6ffb577b9a7436295966543791ffd16.GLView1
+app9.GLView1;md5e6ffb577b9a7436295966543791ffd16.GLView1
